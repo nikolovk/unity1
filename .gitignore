@@ -1,0 +1,36 @@
+====================
+Unity generated
+====================
+Library
+obj
+Temp
+
+====================
+Visual Studio
+====================
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln.DotSettings
+*.user
+*.booproj
+
+====================
+OS Generated
+====================
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
+=====================
+Builds
+=====================
+Builds/
